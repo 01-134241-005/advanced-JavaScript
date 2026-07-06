@@ -64,9 +64,4 @@ console.log(ids.next().value);
   - Generators are lazy: they produce values only when requested.
 */
 
-/*
-  Practice Prompt:
-  Write a generator named `countdown(start)` that yields numbers from `start`
-  down to 1, then yields "Go!".
-*/
 
