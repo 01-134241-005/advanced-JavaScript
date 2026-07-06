@@ -46,9 +46,4 @@ const member = new CourseMember("Bilal");
 console.log(member.introduce());
 console.log(Object.getPrototypeOf(member) === CourseMember.prototype);
 
-/*
-  Practice Prompt:
-  Create an object named `mentor` that inherits from `userMethods`.
-  Add `name` and `role`, then call `mentor.describe()`.
-*/
 
