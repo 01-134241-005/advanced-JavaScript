@@ -67,9 +67,4 @@ printTopic("Modules", formatters.detailed);
   - Strategy: behavior is passed in or selected instead of hardcoded.
 */
 
-/*
-  Practice Prompt:
-  Add a new formatter named `uppercase`.
-  Use it with `printTopic("prototype chain", formatters.uppercase)`.
-*/
 
