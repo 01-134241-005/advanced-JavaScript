@@ -1,0 +1,15 @@
+{
+  "name": "advanced-js-videos-36-51",
+  "version": "1.0.0",
+  "description": "Code-along notes and annotated exercises for advanced JavaScript topics.",
+  "type": "module",
+  "scripts": {
+    "start": "node exercises/04-modules-demo.mjs",
+    "prototype": "node exercises/01-prototype-chain.js",
+    "syntax": "node exercises/02-es6-plus-syntax.js",
+    "generators": "node exercises/03-iterators-generators.js",
+    "modules": "node exercises/04-modules-demo.mjs",
+    "patterns": "node exercises/05-design-patterns.js"
+  }
+}
+
