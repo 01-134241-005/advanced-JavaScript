@@ -52,10 +52,4 @@ console.log(enrollStudent("Advanced JavaScript", "Sara", "Omar", "Nadia"));
   - Optional chaining avoids errors when a nested value is missing.
 */
 
-/*
-  Practice Prompt:
-  Add a `resources` array to `course`.
-  Use destructuring to read its first item.
-  Use spread to add one more resource without mutating the original object.
-*/
 
